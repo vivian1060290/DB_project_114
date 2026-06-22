@@ -4,7 +4,7 @@
 
 以 MariaDB（Docker 環境）設計並實作的教室借用管理系統，提供學生 / 教師線上查詢與申請借用教室，並由管理員審核控管，系統自動檢查時間衝突、記錄歷史借用資料與審核歷程。
 
-🎥 [Demo 影片](https://youtu.be/nglybqouEbM)
+[Demo 影片](https://youtu.be/nglybqouEbM)
 
 ---
 
